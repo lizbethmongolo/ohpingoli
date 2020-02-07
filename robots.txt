@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leiniolaed.egillrunar.com/sitemap.xml
